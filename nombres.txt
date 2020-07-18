@@ -1,0 +1,16 @@
+Nombre: Valentina Aróstica Graciela
+Rol: 201811526-6
+Paralelo: 201
+Programó: Ayuda en implementación de varias de las funciones de los TDAs, cambios y adición de funciones extra en TDAs, ayuda en la planificación de la resolución de los problemas, y en la solución de inconvenientes y errores. Programación de funciones main de los programas.
+
+Nombre: Alonso Pozo Hernández
+Rol: 201956554-0
+Paralelo: 200
+Programó: Ayuda en implementación de varias de las funciones de los TDAs, ayuda en la planificación de la resolución de los problemas, y en la solución de inconvenientes y errores. Revisión y programación de funciones main de los programas.
+
+Nombre: Alan Zapata Silva 
+Rol: 201956567-2
+Paralelo: 201
+Programó: Implementación base de TDA Linked_List.h, cambios y adición de funciones extra en TDAs, ayuda en la planificación de la resolución de los problemas, y en la solución de inconvenientes y errores. Programación de funciones main de los programas.
+
+Observación: Nos conectamos por Zoom a resolver la tarea en conjunto; es decir no distribuimos tareas por separado. Los problemas que surgían se solucionaron trabajando en equipo, por esto, es difícil especificar funciones o código específico programado por un solo integrante.
